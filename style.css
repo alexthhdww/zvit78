@@ -1,0 +1,24 @@
+
+#profile{background:red;width:25%;height:20.5%;color:white;border: 1px solid black;}
+#catalog{background:red;width:25%;height:19.5%;color:white;border: 1px solid black;}
+#news{background:red;width:25%;height:19.5%;color:white;border: 1px solid black;}
+#bin{background:red;width:25%;height:19.5%;color:white;border: 1px solid black;}
+#home{background:red;width:25%;height:19.5%;color:white;border: 1px solid black;}
+#main{background:white;width:75%;height:100%;color:red;border: 1px solid black;font-size:25px;}
+
+
+*{face:arial; font-size:45px;}
+
+#header{text-aligne:center;width:100%;height:100%;background:white;border:red 2px;}
+
+
+
+div{font-size:30px;}
+
+
+a:link{color:White;}
+a:visited{color:White;}
+a:hover{color:Black;}
+a:active{color:Yellow;}
+
+
